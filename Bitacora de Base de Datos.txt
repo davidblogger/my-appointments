@@ -1,0 +1,9 @@
+Crear modelo
+	php artisan make:model "Nombre" -mc //m: crea la migracion, c: crea el controlador
+
+Ejecutar migraciones
+	php artisan migrate
+
+
+Crear Rutas con el comando abreviado
+	php artisan make:controller PhotoController --resource

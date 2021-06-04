@@ -15,7 +15,7 @@
                         </div>
                     @endif
 
-                    {{ __('Hola, acabas de iniciar sesion!') }}
+                    {{ __('Bienvenido!!') }}
                 </div>
             </div>
     </div>
