@@ -7,3 +7,24 @@ Ejecutar migraciones
 
 Crear Rutas con el comando abreviado
 	php artisan make:controller PhotoController --resource
+
+Crear Seeder para poblar base de datos
+	php artisan make:seeder UsersTableSeeder
+
+Ejecutar Seeders para generar usuarios ficticios
+	php artisan db:seed
+
+Ejecutar migraciones para actulizar y limpiar tablas y seeders
+	php artisan migrate:refresh --seed
+
+Definir middleware para admin
+	php artisan make:middleware AdminMiddleware
+
+Definir Controller para doctor
+	php artisan make:controller Doctor\ScheduleController
+
+Definir middleware para doctor
+	php artisan make:middleware DoctorMiddleware
+
+Modelar datos en DB horarios de medicos
+	php artisan make:model WorkDay -m

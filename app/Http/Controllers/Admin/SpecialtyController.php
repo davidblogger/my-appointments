@@ -1,17 +1,13 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace App\Http\Controllers\Admin;
 
 use Illuminate\Http\Request;
 use App\Specialty;
+use App\Http\Controllers\Controller;
 
 class SpecialtyController extends Controller
 {
-	public function __construct() //Aplicar middleware para inicio de sesion
-	{
-		$this->middleware('auth');
-	}
-
     //Listar Especialidades
     public function index()
     {

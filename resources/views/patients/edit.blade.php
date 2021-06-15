@@ -1,7 +1,7 @@
 @extends('layouts.panel')
 
 @section('title')
-  Agregando Médicos
+  Editando Pacientes
 @endsection
 
 @section('content')
@@ -9,10 +9,10 @@
       <div class="card-header border-0">
         <div class="row align-items-center">
           <div class="col">
-            <h3 class="mb-0">Agregando Médicos</h3>
+            <h3 class="mb-0">Editando Pacientes</h3>
           </div>
           <div class="col text-right">
-            <a href="{{ url('doctors') }}" class="btn btn-sm btn-default">Volver</a>
+            <a href="{{ url('patients/') }}" class="btn btn-sm btn-default">Volver</a>
           </div>
         </div>
       </div>
@@ -27,36 +27,38 @@
             @endforeach
           </ul>
          @endif
-        <form action="{{ url('doctors') }}" method="post">
+        <form action="{{ url('patients/'.$patient->id) }}" method="post">
           @csrf
+          @method('PUT')
             <div class="form-group">
-                <label for="name">Nombre del médico:</label>
-                <input type="text" name="name" class="form-control form-control-sm" value="{{ old('name') }}">
+                <label for="name">Nombre del paciente:</label>
+                <input type="text" name="name" class="form-control form-control-sm" value="{{ old('name', $patient->name) }}">
             </div>
 
             <div class="form-group">
                 <label for="email">E-mail:</label>
-                <input type="text" name="email" class="form-control form-control-sm" value="{{ old('email') }}">
+                <input type="text" name="email" class="form-control form-control-sm" value="{{ old('email', $patient->email) }}">
             </div>
 
             <div class="form-group">
                 <label for="dni">DNI:</label>
-                <input type="text" name="dni" class="form-control form-control-sm" value="{{ old('dni') }}">
+                <input type="text" name="dni" class="form-control form-control-sm" value="{{ old('dni', $patient->dni) }}">
             </div>
 
             <div class="form-group">
                 <label for="address">Dirección:</label>
-                <input type="text" name="address" class="form-control form-control-sm" value="{{ old('address') }}">
+                <input type="text" name="address" class="form-control form-control-sm" value="{{ old('address', $patient->address) }}">
             </div>
 
             <div class="form-group">
                 <label for="phone">Teléfono:</label>
-                <input type="text" name="phone" class="form-control form-control-sm" value="{{ old('phone') }}">
+                <input type="text" name="phone" class="form-control form-control-sm" value="{{ old('phone', $patient->phone) }}">
             </div>
 
             <div class="form-group">
                 <label for="password">Contraseña:</label>
-                <input type="text" name="password" class="form-control form-control-sm" value="{{ Str::random(6) }}">
+                <input type="text" name="password" class="form-control form-control-sm" value="">
+                <small class="text-warning"><i>Ingrese un valor sólo si desea modificar la contraseña</i></small>
             </div>
 
             <button type="submit" class="btn btn-sm btn-primary">

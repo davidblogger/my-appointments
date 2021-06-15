@@ -1,7 +1,7 @@
 @extends('layouts.panel')
 
 @section('title')
-  Agregando Médicos
+  Agregando Pacientes
 @endsection
 
 @section('content')
@@ -9,10 +9,10 @@
       <div class="card-header border-0">
         <div class="row align-items-center">
           <div class="col">
-            <h3 class="mb-0">Agregando Médicos</h3>
+            <h3 class="mb-0">Agregando Paciente</h3>
           </div>
           <div class="col text-right">
-            <a href="{{ url('doctors') }}" class="btn btn-sm btn-default">Volver</a>
+            <a href="{{ url('patients') }}" class="btn btn-sm btn-default">Volver</a>
           </div>
         </div>
       </div>
@@ -27,10 +27,10 @@
             @endforeach
           </ul>
          @endif
-        <form action="{{ url('doctors') }}" method="post">
+        <form action="{{ url('patients') }}" method="post">
           @csrf
             <div class="form-group">
-                <label for="name">Nombre del médico:</label>
+                <label for="name">Nombre del paciente:</label>
                 <input type="text" name="name" class="form-control form-control-sm" value="{{ old('name') }}">
             </div>
 
