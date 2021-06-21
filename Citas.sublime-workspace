@@ -1,0 +1,514 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"belongs",
+				"belongsTo〔function〕"
+			],
+			[
+				"belo",
+				"belongsToMany〔function〕"
+			],
+			[
+				"U",
+				"USUARIO_VERIFICADO"
+			],
+			[
+				"toke",
+				"verification_token"
+			],
+			[
+				"e",
+				"errors"
+			],
+			[
+				"mor",
+				"morning_end"
+			],
+			[
+				"wo",
+				"workDay"
+			],
+			[
+				"c",
+				"checked\tAttr"
+			],
+			[
+				"work",
+				"workDays"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"pa",
+				"patients"
+			],
+			[
+				"pac",
+				"paciente"
+			],
+			[
+				"pati",
+				"patient"
+			],
+			[
+				"do",
+				"doctor"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"spe",
+				"specialty"
+			],
+			[
+				"des",
+				"Descripción"
+			],
+			[
+				"sp",
+				"specialty"
+			],
+			[
+				"S",
+				"Specialty"
+			],
+			[
+				"Spe",
+				"specialty"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"spec",
+				"Specialty"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"text",
+				"text-muted"
+			],
+			[
+				"as",
+				"asset"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"php",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"subli",
+				"SublimeCodeIntel: Dump Import Directories"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/laragon/www/my-appointments"
+	],
+	"file_history":
+	[
+		"/C/laragon/www/prestashop/admin725q0ckbp/footer.inc.php",
+		"/C/laragon/www/prestashop/config/config.inc.php",
+		"/C/laragon/www/prestashop/config/index.php",
+		"/C/laragon/www/prestashop/config/settings.inc.php",
+		"/C/laragon/www/prestashop/mails/themes/classic/components/footer.html.twig",
+		"/C/laragon/www/prestashop/index.php",
+		"/C/laragon/www/APIRest/app/Providers/AppServiceProvider.php",
+		"/C/laragon/www/APIRest/database/migrations/2021_06_17_175704_create_categories_table.php",
+		"/C/laragon/www/APIRest/database/migrations/2021_06_17_175328_create_products_table.php",
+		"/C/laragon/www/APIRest/database/migrations/2021_06_17_175640_create_transactions_table.php",
+		"/C/laragon/www/APIRest/app/Product.php",
+		"/C/laragon/www/APIRest/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/laragon/www/my-appointments/Bitacora de Base de Datos.txt",
+		"/C/laragon/www/APIRest/app/User.php",
+		"/C/laragon/www/APIRest/app/Seller.php",
+		"/C/laragon/www/APIRest/app/Category.php",
+		"/C/laragon/www/APIRest/config/database.php",
+		"/C/laragon/www/APIRest/app/Buyer.php",
+		"/C/Users/USUARIO/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/C/Users/USUARIO/AppData/Roaming/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+		"/C/laragon/www/APIRest/app/Transaction.php",
+		"/C/laragon/www/APIRest/Bitacora del Proyecto.txt",
+		"/C/laragon/www/APIRest/routes/api.php",
+		"/C/laragon/www/APIRest/routes/web.php",
+		"/C/laragon/www/APIRest/app/Providers/RouteServiceProvider.php",
+		"/C/laragon/www/APIRest/app/Http/Controllers/User/UserController.php",
+		"/C/laragon/www/APIRest/.env",
+		"/C/laragon/www/APIRest/app/Http/Controllers/Controller.php",
+		"/C/Users/USUARIO/Documents/MEGASY~1/APIRES~1/05COMP~1/05COMP~1/ATTACH~1/023COM~1/LISTA-~1.TXT",
+		"/C/laragon/www/APIRest/Homestead.yaml",
+		"/C/laragon/www/my-appointments/resources/views/layouts/panel.blade.php",
+		"/C/laragon/www/my-appointments/database/migrations/2021_06_15_143748_create_work_days_table.php",
+		"/C/laragon/www/my-appointments/app/WorkDay.php",
+		"/C/laragon/www/my-appointments/app/Http/Controllers/Doctor/ScheduleController.php",
+		"/C/laragon/www/my-appointments/resources/views/schedule.blade.php",
+		"/C/laragon/www/my-appointments/app/Http/Controllers/Admin/DoctorController.php",
+		"/C/laragon/www/my-appointments/routes/web.php",
+		"/C/laragon/www/my-appointments/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php",
+		"/C/laragon/www/my-appointments/resources/views/doctors/index.blade.php",
+		"/C/laragon/www/my-appointments/resources/views/doctors/edit.blade.php",
+		"/C/laragon/www/my-appointments/resources/views/welcome.blade.php",
+		"/C/laragon/www/my-appointments/resources/views/home.blade.php",
+		"/C/laragon/www/my-appointments/app/Http/Middleware/AdminMiddleware.php",
+		"/C/laragon/www/my-appointments/app/Http/Kernel.php",
+		"/C/laragon/www/my-appointments/app/Http/Middleware/DoctorMiddleware.php",
+		"/C/laragon/www/my-appointments/resources/views/includes/panel/menu.blade.php",
+		"/C/laragon/www/my-appointments/app/Http/Controllers/Admin/PatientController.php",
+		"/C/laragon/www/my-appointments/app/Http/Controllers/Admin/SpecialtyController.php",
+		"/C/laragon/www/my-appointments/app/Http/Controllers/SpecialtyController.php",
+		"/C/laragon/www/my-appointments/app/Http/Controllers/Controller.php",
+		"/C/laragon/www/my-appointments/app/Http/Controllers/Admin",
+		"/C/laragon/www/my-appointments/resources/views/layouts/app.blade.php",
+		"/C/laragon/www/my-appointments/resources/views/layouts/form.blade.php",
+		"/C/laragon/www/my-appointments/resources/views/patients/create.blade.php",
+		"/C/laragon/www/my-appointments/resources/views/patients/index.blade.php",
+		"/C/laragon/www/my-appointments/resources/views/patients/edit.blade.php",
+		"/C/laragon/www/my-appointments/app/Http/Controllers/PatientController.php",
+		"/C/laragon/www/my-appointments/app/Http/Controllers/DoctorController.php",
+		"/C/laragon/www/my-appointments/resources/views/doctors/create.blade.php",
+		"/C/laragon/www/my-appointments/app/User.php",
+		"/C/laragon/www/my-appointments/database/seeds/UsersTableSeeder.php",
+		"/C/laragon/www/my-appointments/database/factories/UserFactory.php",
+		"/C/laragon/www/my-appointments/database/seeds/DatabaseSeeder.php",
+		"/C/laragon/www/my-appointments/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/laragon/www/my-appointments/resources/views/specialties/create.blade.php",
+		"/C/laragon/www/my-appointments/resources/views/specialties/index.blade.php",
+		"/C/laragon/www/my-appointments/resources/views/specialties/edit.blade.php",
+		"/C/Users/USUARIO/Desktop/Acamdelo/ejercicio1.txt",
+		"/C/Users/USUARIO/Desktop/Acamdelo/ejercicio1.js",
+		"/C/laragon/www/my-appointments/resources/views/auth/login.blade.php",
+		"/C/laragon/www/my-appointments/database/migrations/2021_05_28_171715_create_specialties_table.php",
+		"/C/laragon/www/my-appointments/resources/views/includes/panel/dropdown_menu.blade.php",
+		"/C/laragon/www/my-appointments/resources/views/auth/verify.blade.php",
+		"/C/laragon/www/my-appointments/resources/views/includes/panel/sidenav.blade.php",
+		"/C/laragon/www/my-appointments/resources/views/includes/panel/navbar.blade.php",
+		"/C/laragon/www/my-appointments/resources/views/includes/panel/footer.blade.php",
+		"/C/laragon/www/my-appointments/.env",
+		"/D/LARAVEL Y KOTLIN/2. Laravel Configuración y Diseño inicial/3.1 argon-dashboard-v1.zip/argon-dashboard-v1.0.0/index.html",
+		"/C/laragon/www/my-appointments/public/index.php",
+		"/C/laragon/www/my-appointments/resources/views/auth/register.blade.php",
+		"/C/laragon/www/my-appointments/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/Users/USUARIO/Desktop/FULL JAVASCRIPT/Practicas REACT/presupuesto/src/index.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 72.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Citas.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"footer",
+				"admin725q0ckbp\\footer.inc.php"
+			],
+			[
+				"route",
+				"app\\Providers\\RouteServiceProvider.php"
+			],
+			[
+				"word",
+				"app\\WorkDay.php"
+			],
+			[
+				"wo",
+				"app\\WorkDay.php"
+			],
+			[
+				"work_",
+				"database\\migrations\\2021_06_15_143748_create_work_days_table.php"
+			],
+			[
+				"work",
+				"app\\WorkDay.php"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"fore",
+				"vendor\\nikic\\php-parser\\lib\\PhpParser\\Node\\Stmt\\Foreach_.php"
+			],
+			[
+				"sch",
+				"app\\Http\\Controllers\\Doctor\\ScheduleController.php"
+			],
+			[
+				"men",
+				"resources\\views\\includes\\panel\\menu.blade.php"
+			],
+			[
+				"admin",
+				"app\\Http\\Middleware\\AdminMiddleware.php"
+			],
+			[
+				"doctor",
+				"app\\Http\\Middleware\\DoctorMiddleware.php"
+			],
+			[
+				"Spec",
+				"app\\Http\\Controllers\\SpecialtyController.php"
+			],
+			[
+				"menu",
+				"resources\\views\\includes\\panel\\menu.blade.php"
+			],
+			[
+				"index",
+				"resources\\views\\patients\\index.blade.php"
+			],
+			[
+				"edit",
+				"resources\\views\\doctors\\edit.blade.php"
+			],
+			[
+				"crea",
+				"resources\\views\\patients\\create.blade.php"
+			],
+			[
+				"create",
+				"resources\\views\\doctors\\create.blade.php"
+			],
+			[
+				"patien",
+				"app\\Http\\Controllers\\PatientController.php"
+			],
+			[
+				"doc",
+				"app\\Http\\Controllers\\DoctorController.php"
+			],
+			[
+				"use",
+				"app\\User.php"
+			],
+			[
+				"spec",
+				"app\\Http\\Controllers\\SpecialtyController.php"
+			],
+			[
+				"DOCTO",
+				"app\\Http\\Controllers\\DoctorController.php"
+			],
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"DOC",
+				"app\\Http\\Controllers\\DoctorController.php"
+			],
+			[
+				"LOGIN",
+				"resources\\views\\auth\\login.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
